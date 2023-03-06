@@ -10,7 +10,6 @@ Source2:        http://savannah.nongnu.org/people/viewgpg.php?user_id=59744.gpg
 
 
 BuildRequires:  gnupg2
-BuildRequires:  readline
 BuildRequires:  readline-devel
 BuildRequires:  flex
 BuildRequires:  bison
