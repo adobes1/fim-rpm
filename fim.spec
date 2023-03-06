@@ -72,5 +72,5 @@ the ordering of images.
 
 
 %changelog
-* Mon Feb 13 2023 Adam Dobes <adobes@redhat.com> #Change date
+* Mon Mar 6 2023 Adam Dobes <adobes@redhat.com>
 - Fim packaged
