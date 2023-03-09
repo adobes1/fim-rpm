@@ -2,7 +2,7 @@ Name:           fim
 Version:        0.6
 Release:        1%{?dist}
 Summary:        Lightweight universal image viewer
-License:        GPL-2.0-only
+License:        GPLv2+
 URL:            https://www.nongnu.org/fbi-improved/
 Source0:        http://download.savannah.nongnu.org/releases/fbi-improved/fim-%{version}-trunk.tar.gz
 Source1:        http://download.savannah.nongnu.org/releases/fbi-improved/fim-%{version}-trunk.tar.gz.sig
