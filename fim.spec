@@ -6,7 +6,9 @@ License:        GPLv2+ AND GPLv3+
 URL:            https://www.nongnu.org/fbi-improved/
 Source0:        http://download.savannah.nongnu.org/releases/fbi-improved/fim-%{version}-trunk.tar.gz
 Source1:        http://download.savannah.nongnu.org/releases/fbi-improved/fim-%{version}-trunk.tar.gz.sig
-Source2:        http://savannah.nongnu.org/people/viewgpg.php?user_id=59744.gpg
+Source2:        gpgkey-1DBB555AEA359B8AAF0C6B88E0E669C8EF1258B8.gpg
+# This key was generated using the following command:
+# gpg2 --export --export-options export-minimal 1DBB555AEA359B8AAF0C6B88E0E669C8EF1258B8 > gpgkey-1DBB555AEA359B8AAF0C6B88E0E669C8EF1258B8.gpg
 
 
 BuildRequires:  gnupg2
