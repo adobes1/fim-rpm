@@ -28,7 +28,7 @@ BuildRequires:  libcaca-devel
 BuildRequires:  aalib-devel
 BuildRequires:  djvulibre-devel
 
-Provides: fim{?_isa} = %{version}-%{release}
+Provides: fim%{?_isa} = %{version}-%{release}
 
 
 %description
